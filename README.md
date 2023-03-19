@@ -35,6 +35,7 @@ The Boston Housing Dataset was obtained from the UCI Machine Learning Repository
 https://archive.ics.uci.edu/ml/machine-learning-databases/housing/
 
 **Plots**
+
 ![Plots](plots/fig1.png)
 ![Plots](plots/fig2.png)
 ![Plots](plots/fig3.png)
